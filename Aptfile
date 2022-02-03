@@ -1,4 +1,11 @@
 jq
+libavcodec-dev
+libavdevice-dev
+libavfilter-dev
+libavformat-dev
+libavutil-dev
+libswresample-dev
+libswscale-dev
 megatools
 neofetch
 p7zip-full
@@ -6,5 +13,4 @@ pkg-config
 pv
 unzip
 wget
-wkhtmltopdf
 zip
