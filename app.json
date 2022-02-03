@@ -30,6 +30,11 @@
             "value": "",
             "required": false
         },
+        "DATABASE_URL": {
+            "description": "SQL Database URL - Optional",
+            "value": "",
+            "required": false
+        },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
             "value": "",
@@ -56,5 +61,16 @@
             "quantity": 1,
             "size": "free"
         }
-    }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/bubobox/heroku-buildpack-mediainfo"
+        }
+    ]
 }
