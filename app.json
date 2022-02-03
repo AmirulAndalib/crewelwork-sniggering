@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/",
     "success_url": "https://t.me/Telegram",
-    "stack": "container",
+    "stack": "heroku-20",
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
