@@ -38,4 +38,19 @@ telegraph
 tgcrypto
 youtube-search-python>=1.4.9
 pygments
+covid
+emoji
+fonttools
+gtts
+jikanpy
+lyrics_extractor==3.0.1
+pokedex.py
+pyfiglet
+pyjokes
+quotefancy
+shazamio
+speechrecognition
+speedtest-cli
+textblob
+wikipedia
 # -------------------------------------------------------#
