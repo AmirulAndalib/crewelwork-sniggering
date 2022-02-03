@@ -1,6 +1,7 @@
 # Required only while Local Deploy
 # ------------------------------------------------------ #
 
+--no-binary=av
 akinator.py
 apscheduler
 bs4
