@@ -6,9 +6,9 @@ apscheduler
 bs4
 cairosvg
 cfscrape
-enhancer==0.3.1
-https://github.com/New-dev0/Telethon/archive/Vector.zip
-py-Ultroid==2022.1.1.1
+enhancer==0.3.3
+https://github.com/New-dev0/Telethon/archive/Artifact.zip
+py-Ultroid==2022.2.9
 pytgcalls==3.0.0.dev19
 gingerit
 git+https://github.com/1danish-00/google_trans_new.git
