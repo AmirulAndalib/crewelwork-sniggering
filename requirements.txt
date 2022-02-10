@@ -6,9 +6,9 @@ apscheduler
 bs4
 cairosvg
 cfscrape
-enhancer==0.3.3
+enhancer==0.3.4
 https://github.com/New-dev0/Telethon/archive/Artifact.zip
-py-Ultroid==2022.2.9
+py-Ultroid==2022.2.10
 pytgcalls==3.0.0.dev19
 fuzzywuzzy
 gingerit
@@ -42,6 +42,7 @@ telegraph
 tgcrypto
 youtube-search-python>=1.4.9
 pygments
+python-Levenshtein
 covid
 emoji
 fonttools
